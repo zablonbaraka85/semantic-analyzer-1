@@ -1,3 +1,4 @@
+
 int main(){
    int[5] a;
    float[5] b;
